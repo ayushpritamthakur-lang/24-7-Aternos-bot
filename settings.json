@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Worrier",
+    "username": "Mr.suar",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "WorrierSmp-Og.aternos.me",
-    "port": 27145,
+    "ip": "Nexus.soon.it:20011",
+    "port": 20011,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "AyushOG69"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,11 +29,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 250,
       "messages": [
-        "I'm a regular player",
+        "Yoo guys what's going on",
         "Know Lord Ayush ?",
         "My Creator is Lord Ayush"
+        "/skin TechnoBlade"
       ]
     },
     "chat-log": true,
